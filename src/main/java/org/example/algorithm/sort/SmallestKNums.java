@@ -13,7 +13,7 @@ import static org.example.util.ArrayUtil.swap;
  * 落在大于区时，小于区和等于区的数都可以确定是 k 个数范围内，但是还有一部分数没有确定，需要在大于区继续寻找
  * @Date: 18:56 2021/8/25
  */
-public class SmallestKNum {
+public class SmallestKNums {
 
     public static void main(String[] args) {
         int[] input = new int[]{4, 5, 1, 6, 2, 7, 2, 8};
