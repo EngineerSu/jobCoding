@@ -19,5 +19,6 @@ public class App
         smallHeap.offer(2);
         smallHeap.offer(3);
         System.out.println(smallHeap.poll());
+        System.out.println("main111");
     }
 }
